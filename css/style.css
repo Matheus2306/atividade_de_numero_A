@@ -1,0 +1,99 @@
+/* aplicação global */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+body {
+  color: #000;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
+
+#cabecalio {
+  font-size: 15px;
+  color: #fff;
+  background: #2c3031;
+  text-align: center;
+  width: 24px 300px;
+  padding: 20px;
+}
+
+#conteiner {
+  width: 50%;
+  max-width: 500px;
+  margin: 74px auto 0px;
+  padding: 50px 50px;
+  align-items: center;
+  background: #e9e8e8;
+}
+
+#jacadastrado {
+  font-size: 15px;
+  text-align: center;
+  margin: 13px;
+}
+
+#signup {
+  font-family: Verdana, sans-serif;
+  padding: 20px;
+  text-align: center;
+  stroke-width: 24px;
+  font-size: 24px;
+}
+
+#risco {
+  background: #e0326f;
+  padding: 1.5px;
+  border-radius: 20px;
+  width: 10%;
+  margin: 0px auto;
+}
+
+#linha1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menor {
+  width: 40%;
+}
+
+.legenda {
+  margin-bottom: 10px;
+}
+
+.campoMenor {
+  width: 80%;
+  border: none;
+  padding: 10px;
+}
+.caixasmaiores{
+    border: none;
+    width: 85%;
+    margin: 0px 20px;
+    padding: 10px;
+}
+
+.legendaDomaior{
+    margin: 30px 18px 10px;
+}
+
+#btnsignup{
+    margin: 27px 0px 0px;
+    text-align: center;
+}
+
+#SIGNUP{
+    padding: 20px 70px 20px;
+    color: #fff;
+    background: #e0326f;
+    border: none;
+}
+
+#rodape{
+    background: #000;
+    
+}
